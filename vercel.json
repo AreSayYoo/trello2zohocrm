@@ -1,8 +1,3 @@
 {
-  "version": 2,
-  "env": {
-    "TRELLO_KEY": "@trello_key",
-    "TRELLO_TOKEN": "@trello_token",
-    "ZOHO_WEBHOOK_URL": "@zoho_webhook"
-  }
+  "version": 2
 }
