@@ -1,0 +1,25 @@
+{
+  "name": "trello2zohocrm",
+  "version": "1.0.0",
+  "description": "This app's goal is to create a webhook that will import trello card data into any zoho crm module with zohoflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AreSayYoo/trello2zohocrm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AreSayYoo/trello2zohocrm/issues"
+  },
+  "homepage": "https://github.com/AreSayYoo/trello2zohocrm#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0"
+  }
+}
